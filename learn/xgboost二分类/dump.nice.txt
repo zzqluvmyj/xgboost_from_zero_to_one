@@ -1,0 +1,52 @@
+booster[0]:
+0:[odor=none] yes=2,no=1
+	1:[odor=anise] yes=4,no=3
+		3:[odor=almond] yes=8,no=7
+			7:leaf=1.99903488
+			8:leaf=-1.98380566
+		4:leaf=-1.98422086
+	2:[spore-print-color=green] yes=6,no=5
+		5:[stalk-surface-below-ring=scaly] yes=10,no=9
+			9:leaf=-1.98942733
+			10:leaf=0.736842096
+		6:leaf=1.91489363
+booster[1]:
+0:[odor=none] yes=2,no=1
+	1:[odor=anise] yes=4,no=3
+		3:[odor=almond] yes=8,no=7
+			7:leaf=1.13416302
+			8:leaf=-1.11611557
+		4:leaf=-1.11659682
+	2:[stalk-color-below-ring=yellow] yes=6,no=5
+		5:[spore-print-color=green] yes=10,no=9
+			9:leaf=-1.11296129
+			10:leaf=1.04375255
+		6:leaf=1.35484564
+booster[2]:
+0:[odor=none] yes=2,no=1
+	1:[odor=anise] yes=4,no=3
+		3:[odor=almond] yes=8,no=7
+			7:leaf=1.04043984
+			8:leaf=-0.995789111
+		4:leaf=-0.996927738
+	2:[gill-size=broad] yes=6,no=5
+		5:[population=clustered] yes=10,no=9
+			9:leaf=-0.0199315138
+			10:leaf=5.29512882
+		6:[spore-print-color=green] yes=12,no=11
+			11:leaf=-1.06058419
+			12:leaf=0.850402474
+booster[3]:
+0:[odor=none] yes=2,no=1
+	1:[odor=anise] yes=4,no=3
+		3:[odor=almond] yes=8,no=7
+			7:leaf=1.0072546
+			8:leaf=-0.902294397
+		4:leaf=-0.904698968
+	2:[stalk-surface-above-ring=silky] yes=6,no=5
+		5:[spore-print-color=green] yes=10,no=9
+			9:leaf=-0.995223761
+			10:leaf=0.670862615
+		6:[gill-spacing=close] yes=12,no=11
+			11:leaf=-0.782073975
+			12:leaf=1.81987679
